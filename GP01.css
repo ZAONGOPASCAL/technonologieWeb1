@@ -1,0 +1,38 @@
+body
+{
+background-image:url(city.jpg);
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+margin:auto;
+width: 1000px;
+
+}
+nav.ol{
+
+word-spacing: 12px;    
+}
+
+button{
+
+    border-radius: 100px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+p.motif-p
+{
+ color: blue;
+}
+
+textarea{
+    background-color: antiquewhite;
+}
+p.yx{
+    
+}
+
+a{
+    text-decoration: none;
+}
