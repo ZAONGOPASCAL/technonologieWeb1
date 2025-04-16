@@ -105,7 +105,7 @@ hr{
     nav,ul{
         display: flex;
         list-style: none;
-        gap: 40px;
+        gap: 25px;
         padding: auto;
         
         
