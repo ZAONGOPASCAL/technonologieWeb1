@@ -201,10 +201,9 @@ background: linear-gradient(135deg, rgba(236, 0,140,1)0% ,rgba(252,103,103,1)100
     nav,ul{
         display: flex;
         list-style: none;
-        gap: 15px;
-        padding: auto;
-        
-        
+        gap: 12px;
+        margin-left: -17px;
+        font-size: 15px;
          
     }
    

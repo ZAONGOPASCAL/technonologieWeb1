@@ -9,7 +9,7 @@ header,nav,ul,li{
   
     background-color:gray;
     border-radius: 15px;
-  
+    width: 100%;
     
  }
 
@@ -20,6 +20,7 @@ nav,ul,li{
     gap: 200px;
     font-style: italic;
     font-weight: bolder;
+    justify-content: space-between;
     
 }
 
@@ -129,6 +130,7 @@ img:hover{
    display: flex;
  }
 
+
  @media(max-width:600px){
 
 
@@ -136,7 +138,7 @@ img:hover{
   nav,ul{
       display: flex;
       list-style: none;
-      gap: 40px;
+      gap: 0px;
       padding: auto;
       
       
@@ -144,7 +146,7 @@ img:hover{
   }
   .item{
     display: block;
-    padding: 15px;
+    padding: 0px;
     text-align: center;
   }
 
